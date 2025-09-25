@@ -25,6 +25,7 @@
           "name": "reference",
           "label": "Reference",
           "valueType": "string",
+          "variationName": "contentFragmentVariation",
           "required": true,
           "validation": {
             "rootPath": "/content/dam"
